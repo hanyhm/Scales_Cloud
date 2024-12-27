@@ -1,4 +1,4 @@
-[2024-09-19 22:14:36 Line:  46] Command: WT
-[2024-09-19 22:14:36 Line: 262] Start thread count: 0
-[2024-09-19 22:14:36 Line:  78] Command Returned: 0
-[2024-09-19 22:14:36 Line:  79] took 0.02 seconds
+[2024-09-26 15:31:59 Line:  46] Command: WT
+[2024-09-26 15:31:59 Line: 262] Start thread count: 1
+[2024-09-26 15:32:02 Line:  78] Command Returned: 0
+[2024-09-26 15:32:02 Line:  79] took 3.05 seconds
